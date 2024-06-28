@@ -1,0 +1,9 @@
+<!-- Step 28
+After the ordered list, add another figure element. -->
+
+        <ol>
+          <li>flea treatment</li>
+          <li>thunder</li>
+          <li>other cats</li>
+        </ol>
+        <figure></figure>
