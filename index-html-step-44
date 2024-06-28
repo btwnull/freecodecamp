@@ -1,0 +1,15 @@
+<!-- Step 44
+You can use radio buttons for questions where you want only one answer out of multiple options.
+
+Here is an example of a radio button with the option of cat:
+
+Example Code
+<input type="radio"> cat
+Remember that input elements are self-closing.
+
+Before the text input, add a radio button with the option set as:
+
+Indoor -->
+
+ <input type="radio"> Indoor
+          <input type="text" name="catphotourl" placeholder="cat photo URL" required>
