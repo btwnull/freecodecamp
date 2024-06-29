@@ -1,0 +1,8 @@
+<!-- Step 16
+Now you need to link the styles.css file, so the styles will be applied again. Inside the head element, add a link element. Give it a rel attribute with the value of "stylesheet" and a href attribute with the value of "styles.css". -->
+
+<head>
+  <meta charset="utf-8" />
+  <title>Cafe Menu</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
