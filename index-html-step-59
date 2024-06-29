@@ -1,0 +1,8 @@
+<!-- Step 59
+Add a final checkbox after the previous one with an id attribute value of energetic. The name attribute should be the same as the previous checkbox.
+
+Also add a label element to the right of the new checkbox with text Energetic. Make sure to associate the label element with the new checkbox. -->
+
+          <input id="loving" type="checkbox" name="personality"> <label for="loving">Loving</label>
+            <input id="lazy" type="checkbox" name="personality"> <label for="lazy">Lazy</label>
+            <input id="energetic" type="checkbox" name="personality"> <label for="energetic">Energetic</label>
