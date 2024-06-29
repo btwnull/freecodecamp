@@ -1,0 +1,9 @@
+<!-- Step 68
+All pages should begin with <!DOCTYPE html>. This special string is known as a declaration and ensures the browser tries to meet industry-wide specifications.
+
+<!DOCTYPE html> tells browsers that the document is an HTML5 document which is the latest version of HTML.
+
+Add this declaration as the first line of the code. -->
+
+<!DOCTYPE html>
+<html lang="en"></html>
