@@ -1,0 +1,19 @@
+<!-- Step 42
+Now that you know it works, you can change the remaining article and p elements to match the first set. Start by adding the class item to the other article elements. -->
+
+          <article class="item">
+            <p>Caramel Macchiato</p>
+            <p>3.75</p>
+          </article>
+          <article class="item">
+            <p>Pumpkin Spice</p>
+            <p>3.50</p>
+          </article>
+          <article class="item">
+            <p>Hazelnut</p>
+            <p>4.00</p>
+          </article>
+          <article class="item">
+            <p>Mocha</p>
+            <p>4.50</p>
+          </article>
