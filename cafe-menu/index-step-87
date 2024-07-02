@@ -1,0 +1,9 @@
+<!-- Step 87
+Now apply the address class to the p element containing the street address 123 Free Code Camp Drive. -->
+
+      <footer>
+        <p>
+          <a href="https://www.freecodecamp.org" target="_blank">Visit our website</a>
+        </p>
+        <p class="address">123 Free Code Camp Drive</p>
+      </footer>
