@@ -1,0 +1,7 @@
+<!-- Finally, modify the third color argument in the linear-gradient function, which is currently pure blue.
+
+Update the rgb function so the value for red is 162, the value of green is 27, and the value of blue is 27.-->
+
+.red {
+background: linear-gradient(180deg, rgb(122, 74, 14) 0%, rgb(245, 62, 113) 50%, rgb(162, 27, 27) 100%);
+}
