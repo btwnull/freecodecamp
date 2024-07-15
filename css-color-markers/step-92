@@ -1,0 +1,13 @@
+<!-- The shadows for your green and blue markers will have the same position, blur, and spread. The only difference will be the colors.
+
+In the .green and .blue CSS rules, update the values for the box-shadow properties so offsetX is 0,offsetY is 0, blurRadius is 20px, and spreadRadius is 0. Leave the colors as green and blue for now. -->
+
+.green {
+background: linear-gradient(#55680D, #71F53E, #116C31);
+box-shadow: 0px 0px 20px 0 green;
+}
+
+.blue {
+background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
+box-shadow: 0px 0px 20px 0 blue;
+}
