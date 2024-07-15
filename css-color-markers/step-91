@@ -1,0 +1,12 @@
+/* Next, update the color value of the red marker's box-shadow property.
+
+Replace the named color with the rgba function. Use the values 83 for red, 14 for green, 14 for blue and 0.8 for the alpha channel. */
+
+.red {
+  background: linear-gradient(
+    rgb(122, 74, 14),
+    rgb(245, 62, 113),
+    rgb(162, 27, 27)
+  );
+  box-shadow: 0 0 20px 0 rgba(83, 14, 14, 0.8);
+}
