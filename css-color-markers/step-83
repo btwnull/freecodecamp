@@ -1,0 +1,10 @@
+<!-- Your marker is looking good. But to make it look even more realistic, you can change the border style to double solid borders.
+
+For the border-left shorthand property, change the border style value from solid to double. -->
+
+.sleeve {
+width: 110px;
+height: 25px;
+background-color: rgba(255, 255, 255, 0.5);
+border-left: 10px double black;
+}
