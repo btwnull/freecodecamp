@@ -1,0 +1,8 @@
+<!-- Within each corresponding label element, and immediately after the input element, add a space and add the following text:
+
+Example Code
+Personal
+Business  -->
+
+        <label><input type="radio" /> Personal</label>
+        <label><input type="radio" /> Business</label>
