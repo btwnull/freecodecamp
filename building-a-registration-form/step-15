@@ -1,0 +1,13 @@
+<!-- Add the following text to the label elements:
+
+Enter Your First Name:
+Enter Your Last Name:
+Enter Your Email:
+Create a New Password: -->
+
+    <fieldset>
+        <label>Enter Your First Name:</label>
+        <label>Enter Your Last Name:</label>
+        <label>Enter Your Email:</label>
+        <label>Create a New Password:</label>
+      </fieldset>
