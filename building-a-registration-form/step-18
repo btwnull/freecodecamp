@@ -1,3 +1,10 @@
 <!-- Following accessibility best practices, link the input elements and the label elements together using the for attribute.
 
 Use first-name, last-name, email, and new-password as values for the respective id attributes. -->
+
+      <fieldset>
+        <label for="first-name">Enter Your First Name: <input id="first-name"></label>
+        <label for="last-name">Enter Your Last Name: <input id="last-name"></label>
+        <label for="email">Enter Your Email: <input id="email"></label>
+        <label for="new-password">Create a New Password: <input id="new-password"></label>
+      </fieldset>
